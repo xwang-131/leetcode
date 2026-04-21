@@ -32,6 +32,7 @@ class Solution:
 ```
 
 ```
+Accepted
 Time: O(n)
 Space: O(n)
 ```
