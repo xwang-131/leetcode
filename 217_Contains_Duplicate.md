@@ -1,4 +1,4 @@
-# 217. Contains Duplicate #Easy
+# 217. Contains Duplicate 🟢
 
 ## 1. Brute Force
 
